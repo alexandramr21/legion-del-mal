@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/alexandramr21/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/alexandramr21/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/alexandramr21/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/alexandramr21/legion-del-mal?&cacheSeconds=60)
+![Licencia](https://img.shields.io/github/license/alexandramr21/legion-del-mal)
 
 
 # 🦹‍♂️ La Legión del Mal
