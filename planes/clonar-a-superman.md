@@ -20,7 +20,7 @@ Si no podemos vencer a Superman con fuerza, lo reemplazamos. Un clon de Superman
 - Desmoralizar al mundo cuando "Superman" los traicione en vivo
 - Enfrentar al Superman real si es necesario
 
-## ¿Por qué Mystique lidera esta misión?
+## ¿Por qué Mystique lidera esta misión?!!!!!!
 
 Mystique es la mayor experta de la Legión en suplantación de identidad. Aunque el clon hará la infiltración física, Mystique diseñará su comportamiento, le enseñará a actuar como Clark Kent, y coordinará la operación de reemplazo.
 
