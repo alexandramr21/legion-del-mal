@@ -1,13 +1,12 @@
-![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-brightgreen)
+![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-brightgreen?style=for-the-badge)
 
-![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Workflow](https://img.shields.io/github/actions/workflow/status/alexandramr21/Legion-del-mal/ci.yml?style=for-the-badge)
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/alexandramr21/legion-del-mal/ci.yml)
-![Release](https://img.shields.io/github/v/release/alexandramr21/legion-del-mal)
-![Issues](https://img.shields.io/github/issues/alexandramr21/legion-del-mal)
-![Último commit](https://img.shields.io/github/last-commit/alexandramr21/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/alexandramr21/legion-del-mal?cacheSeconds=60)
-
+![Release](https://img.shields.io/github/v/release/alexandramr21/Legion-del-mal?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/alexandramr21/Legion-del-mal?style=for-the-badge)
+![Último commit](https://img.shields.io/github/last-commit/alexandramr21/Legion-del-mal?style=for-the-badge)
+![Licencia](https://img.shields.io/github/license/alexandramr21/Legion-del-mal?style=for-the-badge)
 
 
 # 🦹‍♂️ La Legión del Mal - Desde remoto y Local
