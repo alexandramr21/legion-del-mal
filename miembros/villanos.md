@@ -6,7 +6,7 @@
 4. Joker
 5. Harley Quinn
 6. Darkseid
-
+7. flash-invertido
 
 
 # Notas
