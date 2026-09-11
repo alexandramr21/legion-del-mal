@@ -14,4 +14,7 @@ Estos son los planes de control mental que se pueden usar en el juego. Cada plan
 jfaljfalksdf
 dfjaflajlkjdf
 fjalsdfjalkfjalkdf
-fjsdlfjaklfja
+fjsdlfjaklfjadasfaf
+dsfaff
+
+gsggsgfg

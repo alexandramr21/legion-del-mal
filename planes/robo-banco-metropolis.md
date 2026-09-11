@@ -5,19 +5,19 @@
 **Líder de misión:** Lex Luthor
 **Estado:** 🟢 Activa
 
----
+---hfghdghfghfghfgh
 
 ## Objetivo
 
-Infiltrar los servidores del Banco Mundial y transferir fondos a las cuentas cifradas de la Legión. El dinero financiará el Proyecto Satélite Congelador. Monto objetivo: $750 millones.
+Infiltrar los servidores del Banco Mundial y transferir fondosghdfghdfghdgh a las cuentas cifradas de la Legión. El dinero financiará el Proyecto Satélite Congelador. Monto objetivo: $750 mihllones.
 
 ## Amenazas principales
-
-- **Batman** — Su red de vigilancia global podría detectar la infiltración. Probabilidad: alta.
+hfghdfghdh
+- **Batman** — Su red de vigilancia global podría detectar la infiltración. Probabilidad: alta. 
 - **Iron Man** — Los sistemas de seguridad del Banco usan tecnología Stark desde 2024. JARVIS monitorea transacciones sospechosas.
 - **Spider-Man** — Patrulla la zona de Nueva York donde están los servidores de respaldo. Impredecible.
 
-## Fases de la operación
+## Fases de la operaciónfasdfadf
 
 ### Fase 1 - Reconocimiento (Mystique)
 
