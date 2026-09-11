@@ -2,8 +2,7 @@
 
 El objetivo es congelar la ciudad de Metrópolis para detener el tiempo y preservar su estado actual. Esto puede ser útil en situaciones de emergencia, para proteger a los ciudadanos o para realizar investigaciones sin interferencias externas.
 
----
-
+---fgsdgsdgsdg
 ### Pasos
 
 1. **Preparación del equipo**: Asegúrate de contar con el equipo necesario, incluyendo trajes especiales, dispositivos de congelación y sistemas de monitoreo.
