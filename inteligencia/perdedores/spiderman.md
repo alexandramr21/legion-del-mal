@@ -21,7 +21,7 @@ Carnage: Un simbionte más peligroso y caótico que Venom.
 Mysterio: Un maestro de los engaños y las ilusiones. 
 
 
-# Conocidos de Spiderman
+# Conocidos de Spiderman!!!
 Los personajes más conocidos de Spider-Man incluyen al protagonista Peter Parker, quien es el Spider-Man original de la Tierra-616, y a Miles Morales, el joven de la Tierra-1610 que heredó los poderes.  En el cine, las versiones más famosas son las interpretadas por Tobey Maguire, Andrew Garfield y Tom Holland. 
 
 Entre los villanos más emblemáticos del "amigable vecino" se encuentran Venom, el Duende Verde, Doctor Octopus, El Buitre, Electro, Kraven el Cazador y Kingpin.  Otros personajes secundarios de gran relevancia son Gwen Stacy (o Spider-Gwen en otras realidades), Ned Leeds y la tía May. 
