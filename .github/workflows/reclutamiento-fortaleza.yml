@@ -28,6 +28,6 @@ jobs:
                 echo "los planes:"
                 ls planes/
                 echo "los villanos:"
-                ls villanos/
+                ls miembros/
                 echo "inteligencia:"
                 ls inteligencia/  
