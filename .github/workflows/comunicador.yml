@@ -1,0 +1,26 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Comunicador de la legion
+
+
+on:
+  workflow_dispatch:
+    inputs:
+      villano:
+        description: "¿Que villano quieres que transmita el mensaje?"
+        required: true
+        type: choice
+        options:
+          - "Lex Luthor"
+          - "Thanos"
+          - "Magneto"
+          - "Brainiac"
+          - "Joker"
+
+jobs:
+
+  transmitir-mensaje:  
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
