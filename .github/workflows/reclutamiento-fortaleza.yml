@@ -14,4 +14,20 @@ jobs:
                 ls -la
                 echo ""
                 echo "❌ pero qué pasó?  no hay nada aquí, la fortaleza está vacía"
-        
+
+            - name: 'Braniac desbloquea la boveda'
+              uses: actions/checkout@v4
+
+            - name: 'Ahoara si, vamos a ver los planes'
+              run: |
+                echo "Buscar los archivos de la legion de supervillanos"
+                ls -la
+                echo ""
+                echo "✅ Ahora si, la fortaleza tiene archivos secretos"
+                echo ""
+                echo "los planes:"
+                ls planes/
+                echo "los villanos:"
+                ls villanos/
+                echo "inteligencia:"
+                ls inteligencia/  
