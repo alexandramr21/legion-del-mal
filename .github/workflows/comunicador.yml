@@ -21,7 +21,17 @@ on:
         required: true
         default: 'La mision fue un exito, el mundo es nuestro'
 
-
+      cow_character:
+        description: 'Personaje de la vaca que transmitira el mensaje'
+        required: true
+        type: choice
+        options:
+          - eyes
+          - ghostbusters
+          - dragon
+          - fox
+          - king
+          
       prioridad:
         description: 'Nivel de prioridad del mensaje'
         required: true
