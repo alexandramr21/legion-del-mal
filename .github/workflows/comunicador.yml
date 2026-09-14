@@ -11,19 +11,19 @@ on:
         required: true
         type: choice
         options:
-          - "Lex Luthor"
-          - "Thanos"
-          - "Magneto"
-          - "Brainiac"
-          - "Joker"
+          - Lex Luthor
+          - Thanos
+          - Magneto
+          - Brainiac
+          - Joker
       mensaje:
-        description: "Mensaje para el consejo de villanos"
+        description: 'Mensaje para el consejo de villanos'
         required: true
-        default: "La mision fue un exito, el mundo es nuestro"
+        default: 'La mision fue un exito, el mundo es nuestro'
 
 
       prioridad:
-        description: "Nivel de prioridad del mensaje"
+        description: 'Nivel de prioridad del mensaje'
         required: true
         type: choice
         options:
