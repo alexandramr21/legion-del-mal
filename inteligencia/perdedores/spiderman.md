@@ -26,8 +26,10 @@ Los personajes más conocidos de Spider-Man incluyen al protagonista Peter Parke
 
 Entre los villanos más emblemáticos del "amigable vecino" se encuentran Venom, el Duende Verde, Doctor Octopus, El Buitre, Electro, Kraven el Cazador y Kingpin.  Otros personajes secundarios de gran relevancia son Gwen Stacy (o Spider-Gwen en otras realidades), Ned Leeds y la tía May. 
 
-# Estrategia recomendada
+## Estrategia recomendada
 
 **NUNCA enfrentar a Sipiderman directamente sin Cloruro de etilo.**
 La estrategia óptima es la distracción: crear múltiples emergencias simultáneas para que no pueda estar en todas partes. Probabilidad de éxito en combate directo sin cloruro de etilo: 3%.
 Neutralizarlo como sea, enfermedades comunes como un resfriado pueden debilitarlo significativamente, y carece de protección contra armas de fuego o golpes de enemigos con fuerza superior. 
+
+
