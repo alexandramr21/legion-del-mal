@@ -13,3 +13,11 @@ El objetivo es congelar la ciudad de Metrópolis para detener el tiempo y preser
 5. **Mantenimiento del estado congelado**: Una vez que la ciudad esté congelada, realiza inspecciones periódicas para garantizar que el estado de congelación se mantenga y que no haya daños en la infraestructura.
 
 6. **Descongelación controlada**: Cuando sea necesario descongelar la ciudad, sigue un protocolo seguro para restaurar el flujo normal de tiempo y actividad, asegurándote de que todos los sistemas vuelvan a funcionar correctamente. "Descongelación": Unknown word.
+
+
+## Plan de escape
+
+- **Si el plan es interceptado:** autodestrucción remota y negar todo
+- **Si rastrean la señal de control:** el centro de mando alterno está en la Fortaleza Prohibida
+- **Si Superman se acerca al satélite:** activar el revestimiento de Kryptonita a máxima radiación
+- **Si la misión falla por completo:** Lex Luthor tiene preparada una conferencia de prensa culpando a "actividad solar inusual"

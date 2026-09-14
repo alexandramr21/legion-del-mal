@@ -11,10 +11,10 @@ Estos son los planes de control mental que se pueden usar en el juego. Cada plan
 4. Registra el uso del plan de control mental en tu hoja de personaje o en el registro del juego.
 
 
-jfaljfalksdf
-dfjaflajlkjdf
-fjalsdfjalkfjalkdf
-fjsdlfjaklfjadasfaf
-dsfaff
 
-gsggsgfg
+## Plan de escape
+
+- **Si el pan es interceptado:** autodestrucción remota y negar todo
+- **Si rastrean la señal de control:** el centro de mando alterno está en la Fortaleza Prohibida
+- **Si Superman se acerca al satélite:** activar el revestimiento de Kryptonita a máxima radiación
+- **Si la misión falla por completo:** Lex Luthor tiene preparada una conferencia de prensa culpando a "actividad solar inusual"
