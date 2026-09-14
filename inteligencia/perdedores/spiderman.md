@@ -28,5 +28,6 @@ Entre los villanos más emblemáticos del "amigable vecino" se encuentran Venom,
 
 # Estrategia recomendada
 
-**NUNCA enfrentar a Superman directamente sin Cloruro de etilo.**
+**NUNCA enfrentar a Sipiderman directamente sin Cloruro de etilo.**
 La estrategia óptima es la distracción: crear múltiples emergencias simultáneas para que no pueda estar en todas partes. Probabilidad de éxito en combate directo sin cloruro de etilo: 3%.
+Neutralizarlo como sea, enfermedades comunes como un resfriado pueden debilitarlo significativamente, y carece de protección contra armas de fuego o golpes de enemigos con fuerza superior. 
